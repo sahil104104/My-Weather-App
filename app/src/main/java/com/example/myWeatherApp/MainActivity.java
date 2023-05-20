@@ -1,4 +1,4 @@
-package com.example.weatherapptutorial;
+package com.example.myWeatherApp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
